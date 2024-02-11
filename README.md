@@ -1,4 +1,8 @@
-### Hi there 👋
+### **Hi there my name is Evie. 👋**
+## *This is my portfolio and information about me.*
+# I am a student at Western Springs Collage and I am a new student there. I am from England and have lived there for many years but have also lived in other places round the world. I spend most of my time at home with my family and dog. A lot of my free time is used drawing digitally on my device mmy specialty is drawing wolves. In the past I have had an art exhibition in Taranaki at a place called The Collaboration. Most of my life I have worked to better my artwork in more detail and to create my own unique style. I have P.H.A.C.E.S Syndrome and Autism. Werewolves and all things nature make me very happy along with music which I sometimes listent to.
+> In the past I have digitally created
+#
 
 <!--
 **EvieLupine/EvieLupine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
